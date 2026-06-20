@@ -29,7 +29,7 @@ class VectorStoreService:
             chunk_overlap=150
         )
 
-        # 3. Connect Persistently to the Local ChromaDB Instance
+        # 3. Connect Persistently to the Local ChromaDB Instance further
         # Uses Cosine Distance natively to map and look up similar vectors.
         # Links directly to the collection name defined in your configuration.
         self.db = Chroma(
