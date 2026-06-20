@@ -13,7 +13,7 @@ The goal of this Application is to develop a Generative AI–powered application
 *   [x] **Task 7**: Connected context prompts safely to Google's optimized `gemini-2.5-flash-lite` core LLM.
 *   [x] **Task 8**: Structured sequential agent graphs using LangGraph (**Planner**, **Retriever**, **Reasoning**, **Validator**).
 *   [x] **Task 9**: Added a **Max Retries Ceiling Limit (3 cycles)** and a **Fallback End Node** to stop infinite loops.
-*   [x] **Task 10**: Containerized the workspace using an isolated Docker configuration and compiled a full report.
+*   [x] **Task 10**: Containerized the workspace using an isolated Docker configuration and compiled a full report
 
 ---
 
